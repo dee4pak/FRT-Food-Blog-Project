@@ -1,4 +1,4 @@
-# FRT-Food-Blog-Project
+# Foodie Blog
 
 Welcome to Foodie Blog – your ultimate destination for culinary inspiration, delectable recipes, and a journey through the world of gastronomy! Whether you're a seasoned chef, a novice home cook, or simply a food enthusiast, you've landed on the perfect virtual kitchen to satisfy your cravings and ignite your culinary passion.
 
